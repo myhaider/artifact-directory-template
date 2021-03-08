@@ -1,5 +1,5 @@
 Title:
-<MY SUPER AWESOME PROJECT TITLE>
+The Genetic Basis of Antibiotic Resistance in E. Coli
 
 Abstract:
-<MY SUPER AWESOME PROJECT ABSTRACT>
+One of the greatest challenges in public health is the growing number of bacterial species that have developed resistance to antibiotics through point mutations in the genome. Our project aims to identify these genetic markers of antibiotic resistance through a genome wide association study between 36 antibiotic resistant E.Coli samples and 36 controls. Variants were identified in both groups, checked for statistical significance, and analyzed for any functional effects.

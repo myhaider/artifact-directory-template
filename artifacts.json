@@ -1,7 +1,7 @@
 {
-    "this-repository": "https://github.com/DSC-Capstone/artifact-directory-template.git",
-    "project-repository": "https://github.com/DSC-Capstone/project-templates.git",
-    "dockerhub-repository": "amfraenkel/fair-policing-project:latest",
-    "project-website-url": "https://afraenkel.github.io/capstone-malware-domain/",
-    "project-website-code": "https://github.com/afraenkel/capstone-malware-domain.git"
+    "this-repository": "https://github.com/myhaider/artifact-directory-template.git",
+    "project-repository": "https://github.com/myhaider/antibiotic-resistance",
+    "dockerhub-repository": "whrehdhd/dsc_180b:latest",
+    "project-website-url": "https://alandsc.github.io/GWAS/",
+    "project-website-code": "https://github.com/AlanDSC/GWAS"
 }
